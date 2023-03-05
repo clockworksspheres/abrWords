@@ -6,5 +6,5 @@ Check out the [design folder's readme](design/README.md) - some background and d
 
 -----
 
-FOOTNOTE:  anything and everything I say or describe, is from my perspective, one who is trying to recover brain functionality.  I am not an expert in the field, however, I'm working with people that do have expertise and are helping guide me on a path that should bring me back to functionality - at least that's the hope - what we are working towards.
+FOOTNOTE:  anything and everything I say or describe as a part of this project, is from my perspective, one who is trying to recover brain functionality.  I am not an expert in the field.  Instead, this is the from the perspective of one in search of healing.   One working with people that do have expertise and are helping guide me on a path that should bring me back to functionality - at least that's the hope - what we are working towards.
 
