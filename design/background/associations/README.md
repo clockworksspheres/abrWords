@@ -2,6 +2,10 @@
 
 When talking about memory, brain processing and related brain function, what are Associations?
 
+The holy grail of college students seems to be looking for the best way to remember things to regurgatate information for tests - to prove that they know the information and pass a class.
+
+Understanding learning and remember becomes extremely important when trying to figure out and re-learn now to learn, and 
+
 ## Remembering - 
 
 When the brain remembers facts - or pulls more complicated brain processes from memory, in order to repeat success, it is easier for some people to "associate" facts, tasks or processes with something in order to more easily remember and repeat success.
