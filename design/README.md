@@ -27,10 +27,38 @@ To document about:
 Adding content here, means the topic gets mirrored, described and content made for the [[design/README#Lesson Plans]] section
 
 * Features
-* Requirements
-* Timeline
-* Model
-* Configurability
+	* Randomly take words from various dictionaries
+		* rainbow tables
+		* number of words from a specific list
+		* online official language dictionaries
+		* dialect dictionaries
+	* Configurability
+		* word search direction
+			* forwards/backwards
+			* left to right
+			* up and down
+			* Pos incline
+			* Neg incline
+		* word length
+		* word complexity
+		* root words
+		* prefixes
+		* postfixes
+		* grammar rules
+		* font, font size and font mods
+		* examples/documentation for each piece of configurability - no confuration makes release, with out associated documentation and testing
+	* Timers
+		* countdown
+		* "5 minute warning" - configurable - multiple possible
+		* Audio interaction with timers
+ * Requirements
+	 * Printing
+		 * Ability to print clean puzzle
+		 * Ability to print partially done puzzle
+		 * Ability to print done puzzle
+* Product Release Timeline
+* Model/Design/Architecture
+
 
 ## Lesson Plans
 
@@ -50,7 +78,7 @@ These topics give meaning and background as to why this app is important, and ho
 ## People with these brain issues/problems that might find this app and/or content useful
 
 * Victims of aging
-* People who have had an mTBI or TBI
+* People who have had a mTBI or TBI
 * People with Dislexia
 * People with ADD/ADHD
 * People with other learning "disorders"
