@@ -78,11 +78,20 @@ These topics give meaning and background as to why this app is important, and ho
 ## People with these brain issues/problems that might find this app and/or content useful
 
 * Victims of aging
-* People who have had a mTBI or TBI
+* People who have had a mTBI, TBI, and/or multiple ones
 * People with Dislexia
 * People with ADD/ADHD
 * People with other learning "disorders"
 
 ## The Journey (by quarter?  by month?)
 
+## Scheduling
+
+### Careful of:
+* Intensity
+* Length
+* Content topic
+* Weatther
+* Accuacy of med management
+* Atteniton to meal management
 
