@@ -18,3 +18,34 @@ The goal is to use the creation and building of this app to teach Marko examples
 
 Notes, lesson plans, resources, etc., for the teaching part of this project will be kept in the design/lesson-plans folder of this repository. 
 
+
+
+To document about:
+
+## The App
+
+Adding content here, means the topic gets mirrored, described and content made for the [[design/README#Lesson Plans]] section
+
+* Features
+* Requirements
+* Timeline
+* Model
+* Configurability
+
+## Lesson Plans
+
+* Survey of CS topics (plus that CS101 book)
+* Don't add to "the app" section, without adding appropriate content to the Lesson Plans section
+
+## Related topics that give anything in [[design/README#The App]] section meaning - each feature or requrement for a game must be tied to one of the "4XXX" tags.
+
+These topics give meaning and background as to why this app is important, and how the "4XXX" tags 
+
+* About Aphasia
+* Learning how to learn
+* Neuro-Plasticity
+* philosophy during progress healing
+
+## The Journey (by quarter?  by month?)
+
+
