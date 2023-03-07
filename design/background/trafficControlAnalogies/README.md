@@ -8,7 +8,7 @@ Since then, there have been other issues found - that hinder me from being produ
 
 Here is a working list of analogies we're already working on - or wishing to get help/validation/feedback from my medical treatment team:
 
-* ![[The Govenor]]
+* [[The Govenor]]
 	* ![[Speed]]
 	* ![[Accelleration]]
 	* ![[Velocity]]
