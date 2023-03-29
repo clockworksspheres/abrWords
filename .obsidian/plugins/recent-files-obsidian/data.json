@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "howItBegan-LessonOne",
+      "path": "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "README",
-      "path": "design/README.md"
+      "basename": "VonNeumannMachineModelOfBrainFunction",
+      "path": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md"
     },
     {
       "basename": "LessonPlans",
       "path": "design/lesson-plans/LessonPlans.md"
+    },
+    {
+      "basename": "README",
+      "path": "design/background/toolbox/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "design/background/trafficControlAnalogies/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "design/background/associations/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "design/README.md"
     }
   ],
   "omittedPaths": [],

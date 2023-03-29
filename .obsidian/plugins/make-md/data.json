@@ -33,7 +33,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "design"
+      "design",
+      "design/trafficControlAnalogies",
+      "design/background",
+      "design/background/trafficControlAnalogies",
+      "design/background/association",
+      "design/background/associations",
+      "design/lesson-plans",
+      "design/background/toolbox",
+      "design/lesson-plans/LessonOne-HowItBegan"
     ]
   },
   "expandedSpaces": [
@@ -68,7 +76,7 @@
   "newFileLocation": "current",
   "inlineBacklinks": true,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical"

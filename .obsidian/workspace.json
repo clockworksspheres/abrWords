@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -83,7 +83,17 @@
             }
           },
           {
-            "id": "4d2726972f7b5538",
+            "id": "e171c3d4925a5210",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f4a93a54f7cc932",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -91,11 +101,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "d0c11b01d4549aba",
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md"
               }
             }
           },
@@ -206,11 +216,24 @@
   },
   "active": "22f6c38e75c45099",
   "lastOpenFiles": [
-    "design/README.md",
     "README.md",
+    "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
+    "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.svg",
+    "design/lesson-plans/LessonPlans.md",
+    "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
+    "design/lesson-plans/LessonOne-HowItBegan",
+    "Untitled.canvas",
+    "design/background/computerArchitectureAnalogies",
+    "design/background/toolbox/README.md",
+    "design/background/trafficControlAnalogies/README.md",
+    "design/background/associations/README.md",
+    "design/background/toolbox",
+    "design/README.md",
+    "design/background",
+    "design/background/associations",
+    "design/background/trafficControlAnalogies",
     "2023-03-04.md",
     "Day Planners/Day Planner-20230304.md",
-    "design/lesson-plans/LessonPlans.md",
     "design/lesson-plans",
     "Context",
     "Day Planners/Day Planner-20230303.md",
