@@ -105,3 +105,19 @@ These topics give meaning and background as to why this app is important, and ho
 * Accuacy of med management
 * Atteniton to meal management
 
+# Github References and/or Resources for Word Searches
+
+Title | link
+--- | ---
+huntfx/wordsearch: N-dimensional wordsearch generator | https://github.com/huntfx/wordsearch
+jensenpat/wordsearch: A classic word search game that you can play in your terminal. | https://github.com/jensenpat/wordsearch
+johnbumgarner/wordhoard: This Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions. | https://github.com/johnbumgarner/wordhoard
+Prem-Sinha/word-search-puzzle: A project to generate word search puzzles using Python | https://github.com/Prem-Sinha/word-search-puzzle
+zhaqenl/wordsearch: Word Search in Python | https://github.com/zhaqenl/wordsearch
+GamesAndPuzzles/WordSearch at main · twrogers1/GamesAndPuzzles | https://github.com/twrogers1/GamesAndPuzzles/tree/main/WordSearch
+agmmnn/syn: 🌾 Get synonyms and antonyms of words from Thesaurus.com and other sources in your terminal, with rich output. | https://github.com/agmmnn/syn
+concor/concor at main · gssbusinessgithub/concor | https://github.com/gssbusinessgithub/concor/tree/main/concor
+OLZUP/Word-or-Name-Generator: Makes new words, New Slang, Baby names, Brand Names, Business Names, Names | https://github.com/OLZUP/Word-or-Name-Generator
+Find a Word Search on Any Subject - Word Search Labs | https://wordsearchlabs.com/browse
+abby2407/Data_Structures-and-Algorithms: Data Structures and Algorithms Questions solved in Python | https://github.com/abby2407/Data_Structures-and-Algorithms
+

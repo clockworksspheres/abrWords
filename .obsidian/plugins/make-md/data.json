@@ -38,10 +38,11 @@
       "design/background",
       "design/background/trafficControlAnalogies",
       "design/background/association",
-      "design/background/associations",
       "design/lesson-plans",
+      "design/lesson-plans/LessonOne-HowItBegan",
+      "design/background/associations",
       "design/background/toolbox",
-      "design/lesson-plans/LessonOne-HowItBegan"
+      "design/background/computerArchitectureAnalogies"
     ]
   },
   "expandedSpaces": [
