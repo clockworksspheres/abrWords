@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "340dd07b27341462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/research/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/README.md",
+                "file": "design/research/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/README.md",
+                "file": "design/research/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/README.md"
+                "file": "design/research/Untitled.md"
               }
             }
           },
@@ -214,8 +228,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "22f6c38e75c45099",
+  "active": "340dd07b27341462",
   "lastOpenFiles": [
+    "design/research/Untitled.md",
+    "design/research",
+    "design/README.md",
     "README.md",
     "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
     "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
@@ -228,7 +245,6 @@
     "design/background/trafficControlAnalogies/README.md",
     "design/background/associations/README.md",
     "design/background/toolbox",
-    "design/README.md",
     "design/background",
     "design/background/associations",
     "design/background/trafficControlAnalogies",
