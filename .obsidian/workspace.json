@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "340dd07b27341462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design/research/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,13 +99,21 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "4bc994f0f1538017",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 534.5
   },
   "right": {
     "id": "d0c11b01d4549aba",
@@ -135,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/research/Untitled.md",
+                "file": "design/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/research/Untitled.md",
+                "file": "design/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/research/Untitled.md"
+                "file": "design/README.md"
               }
             }
           },
@@ -228,12 +222,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "340dd07b27341462",
+  "active": "22f6c38e75c45099",
   "lastOpenFiles": [
-    "design/research/Untitled.md",
-    "design/research",
-    "design/README.md",
     "README.md",
+    "design/README.md",
+    "design/research/tapStrap2Related/tapStrap2Resources.md",
+    "design/research/Untitled.md",
+    "design/research/tapStrap2Related",
+    "design/tapStrap2Related",
+    "design/research",
     "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
     "design/lesson-plans/LessonOne-HowItBegan/howItBegan-LessonOne.md",
     "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.svg",
@@ -251,8 +248,6 @@
     "2023-03-04.md",
     "Day Planners/Day Planner-20230304.md",
     "design/lesson-plans",
-    "Context",
-    "Day Planners/Day Planner-20230303.md",
-    "Day Planners"
+    "Day Planners/Day Planner-20230303.md"
   ]
 }
