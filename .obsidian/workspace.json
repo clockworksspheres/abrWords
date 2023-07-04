@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/README.md",
+                "file": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/README.md",
+                "file": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/README.md",
+                "file": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/README.md"
+                "file": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "22f6c38e75c45099",
   "lastOpenFiles": [
-    "README.md",
     "design/README.md",
+    "README.md",
     "design/research/tapStrap2Related/tapStrap2Resources.md",
     "design/research/Untitled.md",
     "design/research/tapStrap2Related",

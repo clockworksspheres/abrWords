@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VonNeumannMachineModelOfBrainFunction",
+      "path": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md"
+    },
+    {
       "basename": "README",
       "path": "design/README.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Untitled",
       "path": "design/research/Untitled.md"
-    },
-    {
-      "basename": "VonNeumannMachineModelOfBrainFunction",
-      "path": "design/background/computerArchitectureAnalogies/VonNeumannMachineModelOfBrainFunction.md"
     },
     {
       "basename": "howItBegan-LessonOne",
